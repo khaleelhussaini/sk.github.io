@@ -1,0 +1,76 @@
+/*banner*/
+.khaleel-banner {
+    height: 100vh;
+    position: relative;
+    z-index: -99;
+    /* background:url(../images/bg-banner.jpg);
+    background: #20297e*/
+}
+
+.khaleel-banner h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 45px;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 20%;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+.khaleel-banner h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    text-transform: capitalize;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Avenir LT Std 45 Book';
+    padding-top: 10px;
+}
+
+.khaleel-banner p {
+    text-align: center;
+    color: #f1f1f1;
+    font-size: 15px;
+    letter-spacing: 1.3px;
+    line-height: 1.7;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.about-btn {
+    padding: 10px 24px;
+    font-size: 15px;
+    border: 1px solid #dbd8e3;
+    margin-right: 10px;
+    color: #fff;
+}
+
+.cv-btn {
+    padding: 10px 24px;
+    font-size: 15px;
+    background: #e5f0ff;
+    margin-left: 10px;
+    color: #141926;
+}
+
+.down-arrow {
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    bottom: 15px;
+    left: 50%;
+}
+
+/* about */
+.khaleel-about{
+    background-color: #fff;
+}
+
+
+/*khaleel-experience*/
+.khaleel-experience {
+    padding: 60px 0px;
+    height: 100vh;
+}
